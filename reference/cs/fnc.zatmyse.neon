@@ -1,0 +1,12 @@
+name: zatmyse
+description: Obrazovka se setmí, nebo rozetmí. Změna trvá 500 milisekund.
+params:
+	xx:
+		values:
+			0: rozetmít z černé
+			1: setmít do černé
+
+	yy:
+		values:
+			1: změna se provede hned
+		optional: TRUE
