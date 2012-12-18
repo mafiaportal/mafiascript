@@ -1,0 +1,9 @@
+name: dialog_end
+description: Uvolní kameru po skončení rozhovoru.
+
+#params - THIS IS COMMENT
+
+#similar - THIS IS COMMENT
+
+sources:
+	- http://www.djbozkosz.wz.cz/modding_mafia_msdr.php
